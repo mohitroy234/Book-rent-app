@@ -1,4 +1,4 @@
-# book_rent
+# Book Rent
 
 A new Flutter project.
 
